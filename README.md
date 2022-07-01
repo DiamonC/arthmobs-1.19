@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Arth Mobs
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+The easiest way to install will be downloading from Modrinth(Coming Soon): http://test.com. Or, you can build a jar yourself with the code in this repo.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT license.
